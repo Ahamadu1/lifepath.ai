@@ -1,3 +1,51 @@
+LifePathAI is an AI-powered roadmap generator that helps you design a personalized journey toward your financial and lifestyle goals.
+By answering 20 deep questions, the system uses AI to craft a step-by-step roadmap tailored to your unique situation. You can then dive deeper with follow-up questions in an interactive chat, and export the entire journey into a polished PDF.
+
+🚀 Features
+
+AI-Driven Personalization
+
+The app uses AI (via the OpenAI API) to analyze your answers and create a roadmap that fits your goals, skills, and constraints.
+
+20-Question Onboarding
+
+Covers your living situation, dreams, money goals, skills, and constraints.
+
+Gives the AI rich context to generate a roadmap that actually fits you.
+
+3-Phase AI Roadmap
+
+🌱 Foundation (0–6 months) – build the base.
+
+🚀 Momentum (6–24 months) – scale and accelerate.
+
+🏁 Long-Term Vision (2–5+ years) – achieve lifestyle & financial goals.
+
+Ask Anything (AI Chat)
+
+Have a conversation with your roadmap.
+
+AI answers your follow-up questions with context from your roadmap + chat history.
+
+Export to PDF
+
+One-click export of your roadmap + Q&A chat history into a single PDF.
+
+🖥️ Tech Stack
+
+Next.js (App Router) – frontend framework
+
+React – UI components
+
+TailwindCSS – styling
+
+Supabase – backend / auth / storage (future expansion)
+
+OpenAI API – AI roadmap + chat generation
+
+jsPDF – PDF export
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
